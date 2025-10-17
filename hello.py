@@ -1,7 +1,8 @@
 #!/usr/bin/env python3
 
 def main():
-    print("Hello, World!")
+    name = input("Enter your name: ")
+    print(name)
 
 if __name__ == "__main__":
     main()
